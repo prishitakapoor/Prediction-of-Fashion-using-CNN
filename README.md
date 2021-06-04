@@ -9,7 +9,7 @@ This notebook will cover the following two major topics :
 [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. Zalando intends Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits. The original MNIST dataset contains a lot of handwritten digits. Members of the AI/ML/Data Science community love this dataset and use it as a benchmark to validate their algorithms. 
 
 <p align="center">
-  <img src="https://github.com/mahdi-darvish/Convolutional-Neural-Network-on-Fashion-MNIST/blob/main/fashion_mnist_dataset_sample.png" />
+  <img src="https://github.com/prishitakapoor/Convolutional-Neural-Network-on-Fashion-MNIST/blob/main/fashion_mnist_dataset_sample.png" />
 </p>
 
 ## Data Description
@@ -34,7 +34,7 @@ The model trained on three epochs and got over 80% accuracy, and you may also tr
 Loss and accuracy plots are shown below.
 
 <p align="center">
-  <img src="https://github.com/mahdi-darvish/Convolutional-Neural-Network-on-Fashion-MNIST/blob/main/Loss.PNG" />
+  <img src="https://github.com/prishitakapoor/Convolutional-Neural-Network-on-Fashion-MNIST/blob/main/Loss.PNG" />
 </p>
 
 
@@ -43,5 +43,5 @@ Loss and accuracy plots are shown below.
 I used a custom function to show some of the errors when the model couldn't find the right answer and illustrated the model prediction and real value.
 
 <p align="center">
-  <img src="https://github.com/mahdi-darvish/Convolutional-Neural-Network-on-Fashion-MNIST/blob/main/Errors.PNG" />
+  <img src="https://github.com/prishitakapoor/Convolutional-Neural-Network-on-Fashion-MNIST/blob/main/Errors.PNG" />
 </p>
