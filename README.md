@@ -34,7 +34,7 @@ The model trained on three epochs and got over 80% accuracy, and you may also tr
 Loss and accuracy plots are shown below.
 
 <p align="center">
-  <img src="https://github.com/prishitakapoor/Prediction-of-Fashion-using-CNN/blob/blob/main/Loss.PNG" />
+  <img src="https://github.com/prishitakapoor/Prediction-of-Fashion-using-CNN/blob/main/Loss.PNG" />
 </p>
 
 
@@ -43,5 +43,5 @@ Loss and accuracy plots are shown below.
 I used a custom function to show some of the errors when the model couldn't find the right answer and illustrated the model prediction and real value.
 
 <p align="center">
-  <img src="https://github.com/prishitakapoor/Prediction-of-Fashion-using-CNN/blob/blob/main/Errors.PNG" />
+  <img src="https://github.com/prishitakapoor/Prediction-of-Fashion-using-CNN/blob/main/Errors.PNG" />
 </p>
